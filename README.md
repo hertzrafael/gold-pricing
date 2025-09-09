@@ -8,4 +8,5 @@ Trabalho da disciplina de Econometria que visa precificar o ouro, utilizando reg
 - Teste VIF apresentou alta multicolinearidade entre as variáveis explicativas (5,79 em ambas).
 - Remoção do Índice NYSE e substituindo por VIX (CBOE Volatility Index).
 - Dados de produção, aumentar a quantidade de observações dos dados (recomendado diários)
+- Corrigindo banco de dados para dados mensais.
 
